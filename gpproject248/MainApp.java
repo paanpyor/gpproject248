@@ -72,7 +72,7 @@ public class MainApp{
             
 
         }    
-        while(choice.equalsIgnoreCase("E"));//exit the first process.
+        while(!choice.equalsIgnoreCase("E"));//exit the first process.
 
         //transfer all data from LinkedList to Queue
         // remove data 
