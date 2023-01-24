@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=order
+comment1.params=receiverName\ receiverLocation\ deliveryDistance\ deliveryMessage\ deliveryStatus
+comment1.target=order(java.lang.String,\ java.lang.String,\ double,\ java.lang.String,\ java.lang.String)
+comment2.params=receiverName\ receiverLocation\ deliveryDistance\ deliveryMessage\ deliveryStatus
+comment2.target=void\ setorder(java.lang.String,\ java.lang.String,\ double,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getReciverName()
+comment4.params=
+comment4.target=java.lang.String\ getReceiverLocation()
+comment5.params=
+comment5.target=double\ getDeliveryDistance()
+comment6.params=
+comment6.target=java.lang.String\ getDeliveryMessage()
+comment7.params=
+comment7.target=java.lang.String\ getDeliveryStatus()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
